@@ -1,5 +1,5 @@
-name = "lp-plano-saude"
+name = "direitomedico"
 compatibility_date = "2024-09-23"
 
 [assets]
-directory = "."
+directory = "./public"
